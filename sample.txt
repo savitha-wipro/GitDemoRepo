@@ -1,1 +1,2 @@
-This is the new sample.txt file created thru git-bash
+This is the new sample.txt xxxxx file created thru git-bash
+
