@@ -1,2 +1,4 @@
 This is the new sample.txt xxxxx file created thru git-bash
+Made some changes now...
+
 
